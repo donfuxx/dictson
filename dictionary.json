@@ -1,0 +1,11 @@
+{
+	"en": [{		
+		"key" : "text",
+		"another_key" : "another text"
+	}],
+	
+	"es": [{
+		"key" : "texto",
+		"another_key" : "otro texto"
+	}]
+}
